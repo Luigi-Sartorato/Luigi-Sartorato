@@ -16,7 +16,6 @@
 
 </div>
 <div>
-https://contribution.catsjuice.com/_/Luigi-Sartorato?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=mess&animation_duration=4&animation_loop=true&weeks=30&theme=green&dark=true
 </div>
 <br>
 <br>
